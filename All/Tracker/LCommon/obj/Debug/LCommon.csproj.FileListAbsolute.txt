@@ -1,0 +1,10 @@
+C:\Users\OI\Desktop\P2P client\LCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OI\Desktop\P2P client\LCommon\bin\Debug\LCommon.dll
+C:\Users\OI\Desktop\P2P client\LCommon\bin\Debug\LCommon.pdb
+C:\Users\OI\Desktop\P2P client\LCommon\obj\Debug\LCommon.dll
+C:\Users\OI\Desktop\P2P client\LCommon\obj\Debug\LCommon.pdb
+C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\Tracker\LCommon\bin\Debug\LCommon.dll
+C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\Tracker\LCommon\bin\Debug\LCommon.pdb
+C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\Tracker\LCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\Tracker\LCommon\obj\Debug\LCommon.dll
+C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\Tracker\LCommon\obj\Debug\LCommon.pdb

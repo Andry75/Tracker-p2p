@@ -1,0 +1,20 @@
+C:\Users\OI\Desktop\P2P client\p2p Server\bin\Debug\p2p Server.exe.config
+C:\Users\OI\Desktop\P2P client\p2p Server\bin\Debug\p2p Server.exe.manifest
+C:\Users\OI\Desktop\P2P client\p2p Server\bin\Debug\p2p Server.application
+C:\Users\OI\Desktop\P2P client\p2p Server\bin\Debug\p2p Server.exe
+C:\Users\OI\Desktop\P2P client\p2p Server\bin\Debug\p2p Server.pdb
+C:\Users\OI\Desktop\P2P client\p2p Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OI\Desktop\P2P client\p2p Server\obj\x86\Debug\p2p Server.exe.manifest
+C:\Users\OI\Desktop\P2P client\p2p Server\obj\x86\Debug\p2p Server.application
+C:\Users\OI\Desktop\P2P client\p2p Server\obj\x86\Debug\p2p Server.exe
+C:\Users\OI\Desktop\P2P client\p2p Server\obj\x86\Debug\p2p Server.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\All\p2p Server\bin\Debug\p2p Server.exe.config
+C:\Documents and Settings\Администратор\Рабочий стол\All\p2p Server\bin\Debug\p2p Server.exe.manifest
+C:\Documents and Settings\Администратор\Рабочий стол\All\p2p Server\bin\Debug\p2p Server.application
+C:\Documents and Settings\Администратор\Рабочий стол\All\p2p Server\bin\Debug\p2p Server.exe
+C:\Documents and Settings\Администратор\Рабочий стол\All\p2p Server\bin\Debug\p2p Server.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\All\p2p Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Рабочий стол\All\p2p Server\obj\x86\Debug\p2p Server.exe.manifest
+C:\Documents and Settings\Администратор\Рабочий стол\All\p2p Server\obj\x86\Debug\p2p Server.application
+C:\Documents and Settings\Администратор\Рабочий стол\All\p2p Server\obj\x86\Debug\p2p Server.exe
+C:\Documents and Settings\Администратор\Рабочий стол\All\p2p Server\obj\x86\Debug\p2p Server.pdb

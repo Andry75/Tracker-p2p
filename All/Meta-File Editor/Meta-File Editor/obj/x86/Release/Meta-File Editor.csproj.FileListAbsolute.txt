@@ -1,0 +1,14 @@
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Meta-File Editor\Meta-File Editor\bin\Release\Meta-File Editor.exe
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Meta-File Editor\Meta-File Editor\bin\Release\Meta-File Editor.pdb
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Meta-File Editor\Meta-File Editor\bin\Release\LCommon.dll
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Meta-File Editor\Meta-File Editor\bin\Release\LCommon.pdb
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Meta-File Editor\Meta-File Editor\obj\x86\Release\ResolveAssemblyReference.cache
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Meta-File Editor\Meta-File Editor\obj\x86\Release\Meta_File_Editor.Form1.resources
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Meta-File Editor\Meta-File Editor\obj\x86\Release\Meta_File_Editor.Properties.Resources.resources
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Meta-File Editor\Meta-File Editor\obj\x86\Release\GenerateResource.read.1.tlog
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Meta-File Editor\Meta-File Editor\obj\x86\Release\GenerateResource.write.1.tlog
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Meta-File Editor\Meta-File Editor\obj\x86\Release\Meta-File Editor.exe
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Meta-File Editor\Meta-File Editor\obj\x86\Release\Meta-File Editor.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Meta-File Editor\Meta-File Editor\bin\Release\Meta-File Editor.exe.config
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Meta-File Editor\Meta-File Editor\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Meta-File Editor\Meta-File Editor\obj\x86\Release\GenerateResource-ResGen.write.1.tlog

@@ -1,0 +1,40 @@
+C:\Users\Andry75\Desktop\P2P client\P2P client\obj\Debug\P2P client.exe
+C:\Users\Andry75\Desktop\P2P client\P2P client\obj\Debug\P2P client.pdb
+C:\Users\Andry75\Desktop\P2P client\P2P client\bin\Debug\P2P client.exe
+C:\Users\Andry75\Desktop\P2P client\P2P client\bin\Debug\P2P client.pdb
+C:\Users\Andry75\Desktop\P2P client\P2P client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andry75\Desktop\P2P client\P2P client\obj\Debug\P2P_client.MainForm.resources
+C:\Users\Andry75\Desktop\P2P client\P2P client\obj\Debug\P2P_client.Properties.Resources.resources
+C:\Users\Andry75\Desktop\P2P client\P2P client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Andry75\Desktop\P2P client\P2P client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\OI\Desktop\P2P client\P2P client\bin\Debug\P2P client.exe
+C:\Users\OI\Desktop\P2P client\P2P client\bin\Debug\P2P client.pdb
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Debug\P2P_client.GUI.MainWindow.resources
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Debug\P2P_client.Properties.Resources.resources
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Debug\P2P client.exe
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Debug\P2P client.pdb
+C:\Users\OI\Desktop\P2P client\P2P client\bin\Debug\P2P client.exe.config
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Debug\P2P_client.GUI.AddMetafile.resources
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Debug\P2P_client.GUI.Options.resources
+C:\Users\OI\Desktop\P2P client\P2P client\bin\Debug\LCommon.dll
+C:\Users\OI\Desktop\P2P client\P2P client\bin\Debug\LCommon.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\All\P2P client\bin\Debug\P2P client.exe.config
+C:\Documents and Settings\Администратор\Рабочий стол\All\P2P client\obj\Debug\P2P client.exe
+C:\Documents and Settings\Администратор\Рабочий стол\All\P2P client\obj\Debug\P2P client.pdb
+C:\Users\OI\Desktop\All\P2P client\bin\Debug\P2P client.exe.config
+C:\Users\OI\Desktop\All\P2P client\obj\Debug\P2P client.exe
+C:\Users\OI\Desktop\All\P2P client\obj\Debug\P2P client.pdb
+C:\Users\OI\Desktop\All\P2P client\bin\Debug\P2P client.exe
+C:\Users\OI\Desktop\All\P2P client\bin\Debug\P2P client.pdb
+C:\Users\OI\Desktop\All\P2P client\bin\Debug\LCommon.dll
+C:\Users\OI\Desktop\All\P2P client\bin\Debug\LCommon.pdb
+C:\Users\OI\Desktop\All\P2P client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OI\Desktop\All\P2P client\obj\Debug\P2P_client.GUI.AddMetafile.resources
+C:\Users\OI\Desktop\All\P2P client\obj\Debug\P2P_client.GUI.MainWindow.resources
+C:\Users\OI\Desktop\All\P2P client\obj\Debug\P2P_client.GUI.Options.resources
+C:\Users\OI\Desktop\All\P2P client\obj\Debug\P2P_client.Properties.Resources.resources
+C:\Users\OI\Desktop\All\P2P client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\OI\Desktop\All\P2P client\obj\Debug\GenerateResource-ResGen.write.1.tlog

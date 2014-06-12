@@ -1,0 +1,5 @@
+C:\Documents and Settings\nm\Мои документы\Visual Studio 2008\Projects\ASP.NET Forum\ASP.NET Forum\bin\ASP.NET Forum.dll
+C:\Documents and Settings\nm\Мои документы\Visual Studio 2008\Projects\ASP.NET Forum\ASP.NET Forum\bin\ASP.NET Forum.pdb
+C:\Documents and Settings\nm\Мои документы\Visual Studio 2008\Projects\ASP.NET Forum\ASP.NET Forum\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nm\Мои документы\Visual Studio 2008\Projects\ASP.NET Forum\ASP.NET Forum\obj\Debug\ASP.NET Forum.dll
+C:\Documents and Settings\nm\Мои документы\Visual Studio 2008\Projects\ASP.NET Forum\ASP.NET Forum\obj\Debug\ASP.NET Forum.pdb

@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2P client", "P2P client\P2P client.csproj", "{807E7789-9A38-4517-86C7-08C0AF0EC769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2p Server", "p2p Server\p2p Server.csproj", "{0BFCF119-37CC-4387-8780-16137E2FE979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCommon", "LCommon\LCommon.csproj", "{BE01D86C-D04F-42A1-847D-894D41A09C51}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://home-server:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = P2P\u0020client\\P2P\u0020client.csproj
+		SccProjectName1 = P2P\u0020client
+		SccLocalPath1 = P2P\u0020client
+		SccProjectUniqueName2 = p2p\u0020Server\\p2p\u0020Server.csproj
+		SccProjectName2 = p2p\u0020Server
+		SccLocalPath2 = p2p\u0020Server
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{807E7789-9A38-4517-86C7-08C0AF0EC769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807E7789-9A38-4517-86C7-08C0AF0EC769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807E7789-9A38-4517-86C7-08C0AF0EC769}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{807E7789-9A38-4517-86C7-08C0AF0EC769}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{807E7789-9A38-4517-86C7-08C0AF0EC769}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{807E7789-9A38-4517-86C7-08C0AF0EC769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807E7789-9A38-4517-86C7-08C0AF0EC769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807E7789-9A38-4517-86C7-08C0AF0EC769}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{807E7789-9A38-4517-86C7-08C0AF0EC769}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{807E7789-9A38-4517-86C7-08C0AF0EC769}.Release|x86.ActiveCfg = Release|Any CPU
+		{0BFCF119-37CC-4387-8780-16137E2FE979}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0BFCF119-37CC-4387-8780-16137E2FE979}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{0BFCF119-37CC-4387-8780-16137E2FE979}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{0BFCF119-37CC-4387-8780-16137E2FE979}.Debug|x86.ActiveCfg = Debug|x86
+		{0BFCF119-37CC-4387-8780-16137E2FE979}.Debug|x86.Build.0 = Debug|x86
+		{0BFCF119-37CC-4387-8780-16137E2FE979}.Release|Any CPU.ActiveCfg = Release|x86
+		{0BFCF119-37CC-4387-8780-16137E2FE979}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{0BFCF119-37CC-4387-8780-16137E2FE979}.Release|Mixed Platforms.Build.0 = Release|x86
+		{0BFCF119-37CC-4387-8780-16137E2FE979}.Release|x86.ActiveCfg = Release|x86
+		{0BFCF119-37CC-4387-8780-16137E2FE979}.Release|x86.Build.0 = Release|x86
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

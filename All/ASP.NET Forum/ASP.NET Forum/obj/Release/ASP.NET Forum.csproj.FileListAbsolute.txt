@@ -1,0 +1,10 @@
+C:\Documents and Settings\nm\Мои документы\Visual Studio 2008\Projects\ASP.NET Forum\ASP.NET Forum\bin\ASP.NET Forum.dll
+C:\Documents and Settings\nm\Мои документы\Visual Studio 2008\Projects\ASP.NET Forum\ASP.NET Forum\bin\ASP.NET Forum.pdb
+C:\Documents and Settings\nm\Мои документы\Visual Studio 2008\Projects\ASP.NET Forum\ASP.NET Forum\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\nm\Мои документы\Visual Studio 2008\Projects\ASP.NET Forum\ASP.NET Forum\obj\Release\ASP.NET Forum.dll
+C:\Documents and Settings\nm\Мои документы\Visual Studio 2008\Projects\ASP.NET Forum\ASP.NET Forum\obj\Release\ASP.NET Forum.pdb
+C:\Users\Andry75\AppData\Roaming\QIP\Profiles\384208554-1\RcvdFiles\Хуц_2780932\ASP.NET Forum\ASP.NET Forum\ASP.NET Forum\bin\ASP.NET Forum.dll
+C:\Users\Andry75\AppData\Roaming\QIP\Profiles\384208554-1\RcvdFiles\Хуц_2780932\ASP.NET Forum\ASP.NET Forum\ASP.NET Forum\bin\ASP.NET Forum.pdb
+C:\Users\Andry75\AppData\Roaming\QIP\Profiles\384208554-1\RcvdFiles\Хуц_2780932\ASP.NET Forum\ASP.NET Forum\ASP.NET Forum\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Andry75\AppData\Roaming\QIP\Profiles\384208554-1\RcvdFiles\Хуц_2780932\ASP.NET Forum\ASP.NET Forum\ASP.NET Forum\obj\Release\ASP.NET Forum.dll
+C:\Users\Andry75\AppData\Roaming\QIP\Profiles\384208554-1\RcvdFiles\Хуц_2780932\ASP.NET Forum\ASP.NET Forum\ASP.NET Forum\obj\Release\ASP.NET Forum.pdb

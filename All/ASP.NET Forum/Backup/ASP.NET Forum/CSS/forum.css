@@ -1,0 +1,36 @@
+﻿body
+{
+	background-color:Silver;
+}
+table.fstr
+{
+	border-style:solid;
+	border-collapse:collapse;
+	border-color:Black;
+	width:100%;
+}
+tr.fstr
+{
+	border-style:solid;
+	border-collapse:collapse;
+	border-color:Black;
+}
+td.fstr
+{
+	border-style:solid;
+	border-collapse:collapse;
+	border-color:Black;
+}
+
+.login
+{
+	border-style:solid;	
+	border-collapse:collapse;
+	border-color:Black;
+
+}
+.error
+{
+	color:Red;
+	text-align:center;
+}

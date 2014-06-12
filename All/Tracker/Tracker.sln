@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker", "Tracker\Tracker.csproj", "{AFE1D40B-DD36-42AF-BA30-D1F4573CF87F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCommon", "LCommon\LCommon.csproj", "{BE01D86C-D04F-42A1-847D-894D41A09C51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE1D40B-DD36-42AF-BA30-D1F4573CF87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE1D40B-DD36-42AF-BA30-D1F4573CF87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE1D40B-DD36-42AF-BA30-D1F4573CF87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE1D40B-DD36-42AF-BA30-D1F4573CF87F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE01D86C-D04F-42A1-847D-894D41A09C51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

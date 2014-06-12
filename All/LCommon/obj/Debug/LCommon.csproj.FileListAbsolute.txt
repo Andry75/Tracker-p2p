@@ -1,0 +1,10 @@
+C:\Users\OI\Desktop\P2P client\LCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OI\Desktop\P2P client\LCommon\bin\Debug\LCommon.dll
+C:\Users\OI\Desktop\P2P client\LCommon\bin\Debug\LCommon.pdb
+C:\Users\OI\Desktop\P2P client\LCommon\obj\Debug\LCommon.dll
+C:\Users\OI\Desktop\P2P client\LCommon\obj\Debug\LCommon.pdb
+C:\Users\OI\Desktop\All\LCommon\bin\Debug\LCommon.dll
+C:\Users\OI\Desktop\All\LCommon\bin\Debug\LCommon.pdb
+C:\Users\OI\Desktop\All\LCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OI\Desktop\All\LCommon\obj\Debug\LCommon.dll
+C:\Users\OI\Desktop\All\LCommon\obj\Debug\LCommon.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\Tracker\Tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\Tracker\Tracker\bin\Tracker.dll
+C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\Tracker\Tracker\bin\Tracker.pdb
+C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\Tracker\Tracker\bin\LCommon.dll
+C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\Tracker\Tracker\bin\LCommon.pdb
+C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\Tracker\Tracker\obj\Debug\Tracker.dll
+C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\Tracker\Tracker\obj\Debug\Tracker.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Tracker\LCommon\bin\Release\LCommon.dll
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Tracker\LCommon\bin\Release\LCommon.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Tracker\LCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Tracker\LCommon\obj\Release\LCommon.dll
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Tracker\LCommon\obj\Release\LCommon.pdb

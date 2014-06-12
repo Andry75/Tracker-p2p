@@ -1,0 +1,14 @@
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Release\P2P_client.Properties.Resources.resources
+C:\Users\OI\Desktop\P2P client\P2P client\bin\Release\P2P client.exe
+C:\Users\OI\Desktop\P2P client\P2P client\bin\Release\P2P client.pdb
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Release\P2P client.exe
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Release\P2P client.pdb
+C:\Users\OI\Desktop\P2P client\P2P client\bin\Release\P2P client.exe.config
+C:\Users\OI\Desktop\P2P client\P2P client\bin\Release\LCommon.dll
+C:\Users\OI\Desktop\P2P client\P2P client\bin\Release\LCommon.pdb
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Release\P2P_client.GUI.AddMetafile.resources
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Release\P2P_client.GUI.MainWindow.resources
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Release\P2P_client.GUI.Options.resources
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\OI\Desktop\P2P client\P2P client\obj\Release\GenerateResource-ResGen.write.1.tlog
